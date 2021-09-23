@@ -1,0 +1,17 @@
+{
+    "widgets": {
+        "menuDefaultLeft": {
+            "dataSource": {
+                "actions": {
+                    "back": "Back",
+                    "exit": "Exit",
+                    "overlay": "About this app"
+                },
+                "copyright": {
+                    "version": "Version",
+                    "action": "Built using Fliplet"
+                }
+            }
+        }
+    }
+}
